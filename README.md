@@ -1,3 +1,7 @@
+### Notes from Benorli specific to this fork
+
+**General Notes**: W1D1 all completed in the instructor notebooks, found in the W1D1_ModelTypes folder (Not in student notebooks, which are found int the student folder). Following W1D1, the student notebooks are used instead.
+
 # NeuroMatch Academy (NMA) syllabus
 
 *July 13-31, 2020*
